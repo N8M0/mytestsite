@@ -6,6 +6,7 @@ h1 {
     text-align: center;
     opacity: 1;
     font-family: 'lato', sans-serif;
+    letter-spacing: 0.1em;
 }
 h3 {
     color: aqua;
@@ -15,4 +16,5 @@ h3 {
     height: 40px;
     padding-top: 20px;
     font-family: 'lato', sans-serif;
+    word-spacing: 0.2em;
 }
