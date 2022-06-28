@@ -1,3 +1,7 @@
+body { 
+    background-color: rgb(212, 212, 212);
+    font-family: 'lato',sans-serif;
+}
 h1 {
     color: white;
     background-color: blueviolet;
@@ -5,7 +9,6 @@ h1 {
     width: 100%;
     text-align: center;
     opacity: 1;
-    font-family: 'lato', sans-serif;
     letter-spacing: 0.1em;
 }
 h3 {
@@ -15,12 +18,23 @@ h3 {
     text-align: center;
     height: 40px;
     padding-top: 20px;
-    font-family: 'lato', sans-serif;
     word-spacing: 0.2em;
 }
 
 img {
-    width: 100%;
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+#introToCoding {
+    text-align: justify;
+    max-width: 800px;
     display: block;
     margin-left: auto;
     margin-right: auto;
